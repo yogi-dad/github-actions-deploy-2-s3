@@ -67,7 +67,7 @@ We have defined a couple of steps:
 alright we done all done with github and workflows, now let's move to **AWS** and configure our **S3** and **CloudFront**.
 
 **S3 Bucket setup:**
-- go to https://s3.console.aws.amazon.com/s3/buckets?region=us-west-2
+- Open https://s3.console.aws.amazon.com/s3/buckets?region=us-west-2
 - Choose or create a new bucket
 - Go to the permissions tab and ensure bucket is publicly accessible like following:
 
@@ -110,7 +110,7 @@ now let's configure cloudfront for delivering website:
 
 **cloudfront**
 
-- go to https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-west-2#/distributions
+- Open https://us-east-1.console.aws.amazon.com/cloudfront/v3/home?region=us-west-2#/distributions
 - and create a new distribution with the following settings.
   ![image](https://user-images.githubusercontent.com/2582649/193400234-228a3a97-0cc7-4429-9667-d25857fa4424.png)
 
