@@ -11,7 +11,7 @@ git push --set-upstream origin main
 ```
 
 now we are pretty much done on local system.
-let's move to github and perpare our workflow for an automating deployment process to s3 buckets.
+let's move to github and perpare our workflow for automating deployment process to s3 buckets.
 
 go to settings of your repository and click on secrets and add a couple of keys:
 
