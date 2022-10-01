@@ -53,7 +53,6 @@ jobs:
           SOURCE_DIR: ${{ secrets.SOURCE }}
           AWS_S3_BUCKET: ${{ secrets.AWS_BUCKET }}
 ```
-**make sure you push this file.**
 
 **Explanation:**
 
